@@ -50,6 +50,20 @@ extra_skills:
 
 # Experience section
 experience:
+item5:
+    position: Software Engineer
+    company: ARCS(JPL)
+    from: August 2018
+    to: August 2021
+    description: >
+      Head programmer for the Autonomy Research Center for STEAHM (ARCS). Worked with Husky UGV Outdoor Field Research Robot from Clearpath Robotics and development  mapping techniques for navigation systems using LIDAR and Intel RealSence
+  item4:
+    position: Lead programmer
+    company: Rock-SatX
+    from: July 2015
+    to: September 2018
+    description: >
+      Programmed communication system to upload with the iridium satellite network to offload the data before impact. Programmed probes mission critical systems, which included integration with NASA’s sounding rocket data lines,activation of probes deployment motors, and activation of servo locks to deploy autorotation fins.
   item7:
     position: Software Engineer
     company: Neutron shipping(Startup)
@@ -64,21 +78,6 @@ experience:
     to: February 2016
     description: >
       Head programmer for Geo location based social media platform 
-      
-  item5:
-    position: Software Engineer
-    company: ARCS(JPL)
-    from: August 2018
-    to: August 2021
-    description: >
-      Head programmer for the Autonomy Research Center for STEAHM (ARCS). Worked with Husky UGV Outdoor Field Research Robot from Clearpath Robotics and development  mapping techniques for navigation systems using LIDAR and Intel RealSence
-  item4:
-    position: Lead programmer
-    company: Rock-SatX
-    from: July 2015
-    to: September 2018
-    description: >
-      Programmed communication system to upload with the iridium satellite network to offload the data before impact. Programmed probes mission critical systems, which included integration with NASA’s sounding rocket data lines,activation of probes deployment motors, and activation of servo locks to deploy autorotation fins.
   item3:
     position: Student Researcher
     company: College of the Canyons
@@ -104,26 +103,26 @@ education:
     from: August 2016
     to: February 2018
 
-# Community section:
-community:
-  item0:
-    institution: kink
-    program: kink stuff
-    description: "did things , filler filller filler."
-    from: September 2019
-    to: Present
-  item1:
-    institution: work
-    program: work stuff
-    description: "did things , filler filller filler."
-    from: September 2019
-    to: Present
-  item2:
-    institution: fun
-    program: fun stuff
-    description: "did things , filler filller filler."
-    from: September 2019
-    to: Present
+# # Community section:
+# community:
+#   item0:
+#     institution: kink
+#     program: kink stuff
+#     description: "did things , filler filller filler."
+#     from: September 2019
+#     to: Present
+#   item1:
+#     institution: work
+#     program: work stuff
+#     description: "did things , filler filller filler."
+#     from: September 2019
+#     to: Present
+#   item2:
+#     institution: fun
+#     program: fun stuff
+#     description: "did things , filler filller filler."
+#     from: September 2019
+#     to: Present
 
 
 
